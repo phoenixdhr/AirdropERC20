@@ -1,3 +1,12 @@
+**DESCRIPCION**
+
+Proyecto constituido por 3 contratos:
+- EthSwap.sol : Exchange para la venta y compra de "token.sol"
+- Token.sol : Es un token ERC20
+- Airdrop.sol : contrato que se encarga de dristribuir "token.sol" a los usuarion de EthSwap fiajando un determinado bloque
+
+
+
 # ERC20 AirDrop
 
 ## Technology Stack & Tools
